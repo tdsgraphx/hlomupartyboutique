@@ -928,6 +928,7 @@ section {
 }
 
 #events .paragraph, #menu .paragraph {
+  font-family: var(--font-default);
   font-size: 18px;
   font-weight: 300;
   color: #676775;
